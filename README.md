@@ -11,3 +11,5 @@ Classification
 <img width="1280" height="750" alt="Image" src="https://github.com/user-attachments/assets/799b4105-e772-4358-a12c-382ec68e4a57" />
 <img width="1280" height="750" alt="Image" src="https://github.com/user-attachments/assets/dd80ff69-b7de-4559-9bb8-959cd5c6f72c" />
 <img width="1280" height="750" alt="Image" src="https://github.com/user-attachments/assets/ddaaa5eb-e20a-4b93-8a30-38cafd3fce7f" />
+
+### Homework3
