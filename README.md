@@ -17,3 +17,5 @@ FNN
 <img width="1990" height="988" alt="cv1" src="https://github.com/user-attachments/assets/c36d21d1-17b2-4c22-9371-89081f0525a9" />
 
 CNN
+<img width="1062" height="961" alt="cv2" src="https://github.com/user-attachments/assets/3c773c15-358a-4c36-8786-fd3fde83d51f" />
+<img width="2016" height="476" alt="cv3" src="https://github.com/user-attachments/assets/998d1067-96e7-48e2-9c89-ea4ca2bb0541" />
