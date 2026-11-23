@@ -13,3 +13,7 @@ Classification
 <img width="1280" height="750" alt="Image" src="https://github.com/user-attachments/assets/ddaaa5eb-e20a-4b93-8a30-38cafd3fce7f" />
 
 ### Homework3
+##FNN
+<img width="1990" height="988" alt="cv1" src="https://github.com/user-attachments/assets/c36d21d1-17b2-4c22-9371-89081f0525a9" />
+
+##CNN
